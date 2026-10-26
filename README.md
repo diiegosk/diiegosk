@@ -1,6 +1,6 @@
 ## Buenas 
 
-![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939.svg?style=for-the-badge&logo=Vivaldi&logoColor=white)
+Soy Diego, estudiante de Desarrollo de Aplicaciones Multiplataforma 
 
 ## Lenguajes
 
