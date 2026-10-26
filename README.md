@@ -1,5 +1,5 @@
-## Buenas 
-![Saludo](https://r2.chiikawawallpaper.com/wallpaper/gif/65ca44b62c2c4bda9a77b093b91b0a49.gif)
+## Buenas ![Saludo](https://r2.chiikawawallpaper.com/wallpaper/gif/65ca44b62c2c4bda9a77b093b91b0a49.gif)
+
 Soy Diego, estudiante de Desarrollo de Aplicaciones Multiplataforma y técnico en Sistemas Microinformáticos y Redes con experiencia. 
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diiegosk&layout=compact&theme=dark)
