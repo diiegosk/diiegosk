@@ -8,6 +8,7 @@ Soy Diego, estudiante de Desarrollo de Aplicaciones Multiplataforma y técnico e
 ## Lenguajes
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://camo.githubusercontent.com/453c972dbd5c600e3d9073773deb20aeb372c217ce5aa77530ded0c044f8928c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3531324244343f7374796c653d666f722d7468652d6261646765266c6f676f3d646f746e6574266c6f676f436f6c6f723d7768697465)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +27,8 @@ Soy Diego, estudiante de Desarrollo de Aplicaciones Multiplataforma y técnico e
 
 ## Herramientas, IDEs, redes y más
 
+![Unity](https://camo.githubusercontent.com/23e8c02630f573df4e0f2d925b547ed37a7af3d656d71403876492667b0ae034/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465)
+![Odoo](https://camo.githubusercontent.com/273a0e6aba88484e1af9b42a612bced6ad247be38742caa49aba609f989bf6ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f646f6f5f28455250292d3731344236373f7374796c653d666f722d7468652d6261646765266c6f676f3d6f646f6f266c6f676f436f6c6f723d7768697465)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Rider](https://img.shields.io/badge/rider-%23000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/notepadplusplus-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black)
